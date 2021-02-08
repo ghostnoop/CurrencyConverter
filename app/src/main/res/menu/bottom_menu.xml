@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_converter"
+        android:icon="@drawable/ic_euro_symbol"
+        android:title="КОНВЕРТЕР" />
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_streetview"
+        android:title="БАНКИ РЯДОМ" />
+
+    <item
+        android:id="@+id/navigation_chart"
+        android:icon="@drawable/ic_show_chart"
+        android:title="КУРС ВАЛЮТ" />
+
+
+</menu>
